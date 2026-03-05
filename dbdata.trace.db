@@ -1,0 +1,4 @@
+2026-03-05 13:12:47.606332+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "[*]LINEA_CARRITO"
+Syntax error in SQL statement "[*]LINEA_CARRITO"; SQL statement:
+LINEA_CARRITO [42000-232]
